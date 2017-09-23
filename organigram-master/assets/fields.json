@@ -1,0 +1,101 @@
+{
+    "fields": [
+        {
+            "text": "SLA",
+            "description": "sehr guter Drucker",
+            "children": ["FDM", "SLM"],
+            "start": true
+        },
+        {
+            "text": "FDM",
+            "description": "ziemlich guter Drucker",
+            "children": ["test1", "test2"],
+            "start": false
+        },
+        {
+            "text": "SLM",
+            "description": "guter Drucker",
+            "children": ["test3", "test4"],
+            "start": false
+        },
+        {
+            "text": "test1",
+            "description": "guter Drucker",
+            "children": ["test5", "test6", "test7", "test8", "test9", "test10"],
+            "start": false
+        },
+        {
+            "text": "test2",
+            "description": "guter Drucker",
+            "children": [],
+            "start": false
+        },
+        {
+            "text": "test3",
+            "description": "guter Drucker",
+            "children": ["test11", "test12", "test13"],
+            "start": false
+        },
+        {
+            "text": "test4",
+            "description": "guter Drucker",
+            "children": [],
+            "start": false
+        },
+        {
+            "text": "test5",
+            "description": "guter Drucker",
+            "children": [],
+            "start": false
+        },
+        {
+            "text": "test6",
+            "description": "guter Drucker",
+            "children": [],
+            "start": false
+        },
+        {
+            "text": "test7",
+            "description": "guter Drucker",
+            "children": [],
+            "start": false
+        },
+        {
+            "text": "test8",
+            "description": "guter Drucker",
+            "children": [],
+            "start": false
+        },
+        {
+            "text": "test9",
+            "description": "guter Drucker",
+            "children": [],
+            "start": false
+        },
+      {
+        "text": "test10",
+        "description": "guter Drucker",
+        "children": [],
+        "start": false
+      },
+        {
+            "text": "test11",
+            "description": "guter Drucker",
+            "children": [],
+            "start": false
+        },
+        {
+            "text": "test12",
+            "description": "guter Drucker",
+            "children": [],
+            "start": false
+        },
+        {
+            "text": "test13",
+            "description": "guter Drucker",
+            "children": [],
+            "start": false
+        }
+    ]
+
+}
